@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Pomofocus</string>
+    <string name="pomodoro">Pomodoro</string>
+    <string name="short_break">Short Break</string>
+    <string name="long_break">Long Break</string>
+    <string name="start">Start</string>
+    <string name="paous">Pause</string>
+    <string name="pause">Pause</string>
+    <string name="tasks">Tasks</string>
+    <string name="add_task">Add Task</string>
+    <string name="what_are_you_working_on">What are you working on?</string>
+    <string name="add_note">Add Note</string>
+    <string name="est_pomodoros">Est Pomodoros</string>
+    <string name="save">Save</string>
+    <string name="time_to_focus">Time to focus!</string>
+    <string name="restart">Restart</string>
+</resources>
